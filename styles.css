@@ -217,3 +217,4 @@ main{position:relative;background:radial-gradient(circle at 50% 0,#0b2027 0,#061
 .div-fold:not([open]) summary:after{content:"▾"}
 .div-chart{margin:10px 0 6px}
 .div-dot:hover circle{stroke:#fff;stroke-width:1.5}
+.survey-fold .survey-text{margin:0;padding:12px 16px;font-size:12.5px;line-height:1.75}
